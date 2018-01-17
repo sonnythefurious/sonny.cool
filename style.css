@@ -1,6 +1,7 @@
-h1 {
-    background #333;
-    margin 4px 3px;
-    padding-box 
+body {
+    background:  rgb(148, 13, 13);
 }
 
+h1 {
+    margin: 5px 10px;
+}
